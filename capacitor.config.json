@@ -1,4 +1,5 @@
 {
+  "linuxAndroidStudioPath": "/home/optimistiks/android-studio/android-studio/bin/studio.sh",
   "appId": "io.ionic.starter",
   "appName": "photo-gallery",
   "bundledWebRuntime": false,
